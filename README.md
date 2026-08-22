@@ -1,2 +1,1 @@
-# window-script
-Windows can be used as prime
+remove recovery partition windows 11
